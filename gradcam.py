@@ -2,7 +2,7 @@
 import torch
 import torch.nn.functional as F
 import numpy as np
-import cv2
+
 
 class GradCAM:
     def __init__(self, model, target_layer):
