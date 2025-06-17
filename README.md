@@ -30,7 +30,7 @@ A deep learning project that classifies fashion items from grayscale images usin
 ## 🖼 Demo Preview
 
 <div align="center">
-  <img src="assets/demo_gradcam.pdf" width="400">
+  <img src="assets/demo_gradcam.pdf" alt="Grad-CAM Demo" width="400">
   <img src="assets/streamlit-streamlit_app-2025-06-18-02-06-41.webm" alt="SHAP Demo" width="400">
 </div>
 
