@@ -40,7 +40,7 @@ A deep learning project that classifies fashion items from grayscale images usin
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/geekatbest/image-classification-interpretability.git
+   git clone https://github.com/geekatbest/cnn-xai-fashion.git
    cd image-classification-interpretability
 
 2. **Create a virtual environment (I use Ananconda)**
